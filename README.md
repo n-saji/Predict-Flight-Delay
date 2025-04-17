@@ -1,5 +1,4 @@
 # Predict-Flight-Delay
-The project is run on the basis of R language and uses ML to predict the delay in flight and to describe a best model to get maximum accuracy in it.
-We would require plenty of ram to do analysis with this csv file hence i request you guys to have 12 gb of free ram.
-Well that's it folks.
-Good luck with your projects.
+This project is built using R and leverages Machine Learning techniques to predict flight delays. It also evaluates various models to determine the one that yields the highest prediction accuracy.
+
+Due to the size and complexity of the dataset (CSV file), it is recommended to have at least 12 GB of free RAM available for efficient data processing and analysis.
